@@ -44,8 +44,8 @@ Building impactful solutions through technology, innovation, and continuous lear
 📊 SGPA:
 - Semester 1: 8.78
 - Semester 2: 9.09
-- Semester 3:8.89
-- Semester 4:9.35
+- Semester 3: 8.89
+- Semester 4: 9.35
 
 📄 Published Researcher in IJCRT
 
@@ -124,6 +124,14 @@ Smart Dual-Mode Grievance & Transparency System
 🔗 https://life-pause.vercel.app
 
 Secure Digital Legacy & Emergency Response SaaS Platform built using React, TypeScript, Supabase and PostgreSQL.
+
+✔ Built a secure SaaS platform for digital legacy and emergency preparedness
+
+✔ Implemented authentication, authorization and role-based access control
+
+✔ Developed emergency contact coordination and response workflows
+
+✔ Integrated PostgreSQL, Supabase and real-time synchronization for scalability
 
 ---
 
