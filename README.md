@@ -1,120 +1,124 @@
 <h1 align="center">Hi 👋, I'm Sonal Tripathi</h1>
 
-<h3 align="center">Computer Engineering Student | Full-Stack Developer | Java Developer | AI & Cybersecurity Enthusiast</h3>
+<h3 align="center">
+Computer Engineering Student | Full-Stack Developer | AI & Cybersecurity Enthusiast
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sonaltripathi20">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sonaktripathi20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+Building impactful solutions through technology, innovation, and continuous learning.
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sonaltripathi20">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://campusnova-beige.vercel.app/">
+<img src="https://img.shields.io/badge/Campus_Nova-FF6B35?style=for-the-badge"/>
+</a>
+
+<a href="https://life-pause.vercel.app">
+<img src="https://img.shields.io/badge/Life_Pause-6C63FF?style=for-the-badge"/>
+</a>
+
+<a href="mailto:sonaktripathi20@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 B.E. Computer Engineering Student at Thakur Shyamnarayan Engineering College, University of Mumbai
+🎓 Computer Engineering Student at Thakur Shyamnarayan Engineering College, University of Mumbai
 
-📊 SGPA:
-- Semester 1: 8.78
-- Semester 2: 9.09
-
-💡 Passionate About:
+💡 Passionate about:
 - Full Stack Development
 - Artificial Intelligence
 - Cybersecurity
 - Cloud Computing
-- Software Engineering
 
-📄 Published Researcher in IJCRT
+🌱 Currently Learning:
+- Advanced React
+- System Design
+- Generative AI
+- Scalable Web Applications
 
-🏆 Coding Club Leader & Community Volunteer
+🏆 Coding Club Leader | Hackathon Participant | DLLE Volunteer
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
 ### Frontend
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
 
 ### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
 ### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
----
-
-## 📌 Featured Projects
-
-### ⏸️ LifePause
-🔗 https://life-pause.vercel.app
-
-Secure Digital Legacy & Emergency Response SaaS Platform built using React, TypeScript, Supabase and PostgreSQL.
-
-### 🎓 Campus Nova
-🔗 https://campusnova-beige.vercel.app
-
-Student-focused platform simplifying campus life and opportunities.
-
-### 🛡️ SafeSpeak
-
-Smart Dual-Mode Grievance & Transparency System.
-
-✔ Published Research Paper (IJCRT)
-
-✔ REST API Integration
-
-✔ Agile Scrum Development
-
-✔ SDLC-Based Project Execution
-
-### 🎤 Java Voice Assistant
-
-Voice-controlled assistant developed in Java with Speech Recognition APIs.
+### Tools
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## 🏆 Achievements
+# 📌 Featured Projects
 
-- 📄 Published Researcher in IJCRT
-- 🏅 Smart India Hackathon Participant
-- 👩‍🏫 Conducted 12+ Technical Workshops
-- 🎯 Mentored 50+ Students
-- 🌟 Impacted 200+ Students through Technical Programs
-- 🏃‍♀️ Inter-School Marathon Champion
+## 🎓 Campus Nova
+A student-focused platform designed to simplify campus life and improve accessibility to resources, opportunities, and information.
+
+🔗 Live Demo:
+https://campusnova-beige.vercel.app/
 
 ---
 
-## 📜 Certifications
+## ⏸️ Life Pause
+A productivity and self-reflection platform helping users pause, organize thoughts, and improve focus.
+
+🔗 Live Demo:
+https://life-pause.vercel.app
+
+---
+
+## 🎤 Java Voice Assistant
+Voice-controlled desktop assistant developed using Java.
+
+---
+
+# 🏆 Achievements
+
+- Coding Club Leadership Experience
+- DLLE Volunteer
+- Hackathon Participant
+- AI & Software Development Projects
+- Technical Workshops & Community Events
+
+---
+
+# 📜 Certifications
 
 - Google Cloud Generative AI
-- Deloitte Cybersecurity Simulation
-- Deloitte Data Analytics Simulation
-- Tata GenAI Data Analytics
-- NPTEL Algorithms and Analysis
+- Deloitte Technology Job Simulation
+- Deloitte Cybersecurity Job Simulation
+- Agile Scrum Fundamentals
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=sonalktripathi20-coder&show_icons=true&theme=tokyonight)
 
@@ -122,7 +126,7 @@ Voice-controlled assistant developed in Java with Speech Recognition APIs.
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sonalktripathi20-coder&theme=tokyonight)
 
