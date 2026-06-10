@@ -1,25 +1,32 @@
 <h1 align="center">Hi 👋, I'm Sonal Tripathi</h1>
 
 <h3 align="center">
-Computer Engineering Student | Full-Stack Developer | AI & Cybersecurity Enthusiast
+Computer Engineering Student @ University of Mumbai
 </h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sonalktripathi20-coder&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
 
 <p align="center">
-Building impactful solutions through technology, innovation, and continuous learning.
+Full Stack Developer • Java Developer • AI & Cybersecurity Enthusiast
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full+Stack+Developer;Java+Developer;AI+%26+Cybersecurity+Enthusiast;Building+Things+That+Matter" />
 </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sonaltripathi20">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://campusnova-beige.vercel.app/">
-<img src="https://img.shields.io/badge/Campus_Nova-FF6B35?style=for-the-badge"/>
+<a href="https://campusnova-beige.vercel.app">
+<img src="https://img.shields.io/badge/Campus_Nova-orange?style=for-the-badge">
 </a>
 
 <a href="https://life-pause.vercel.app">
-<img src="https://img.shields.io/badge/Life_Pause-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LifePause-purple?style=for-the-badge">
 </a>
+</p>
 
 <a href="mailto:sonaktripathi20@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -108,6 +115,9 @@ Voice-controlled desktop assistant developed using Java.
 - Technical Workshops & Community Events
 
 ---
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=sonalktripathi20-coder&theme=tokyonight&row=1)
 
 # 📜 Certifications
 
@@ -120,10 +130,13 @@ Voice-controlled desktop assistant developed using Java.
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=sonalktripathi20-coder&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalktripathi20-coder&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonalktripathi20-coder&show_icons=true&theme=tokyonight"/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalktripathi20-coder&layout=compact&theme=tokyonight"/>
+
+</p>
 ---
 
 # 🔥 GitHub Streak
