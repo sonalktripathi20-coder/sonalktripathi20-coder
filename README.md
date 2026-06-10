@@ -164,13 +164,12 @@ Voice-controlled desktop assistant developed using Java.
 
 # 📜 Certifications
 
-- Google Cloud Generative AI
-- Deloitte Technology Job Simulation
-- Deloitte Cybersecurity Job Simulation
-- Tata GenAI Data Analytics
-- Agile Scrum Fundamentals
-- NPTEL Elite Certificate – Algorithms and Analysis
-
+- 🏅 NPTEL – Algorithms and Analysis (Elite)
+- ☁️ Google Cloud Generative AI
+- 🔐 Deloitte Cybersecurity Job Simulation
+- 📊 Deloitte Technology Job Simulation
+- 🤖 Tata GenAI Data Analytics
+- 🚀 Agile Scrum Fundamentals
 ---
 
 # 📊 GitHub Stats
