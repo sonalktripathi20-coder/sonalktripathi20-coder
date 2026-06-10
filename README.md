@@ -169,6 +169,7 @@ Voice-controlled desktop assistant developed using Java.
 - Deloitte Cybersecurity Job Simulation
 - Tata GenAI Data Analytics
 - Agile Scrum Fundamentals
+- NPTEL Elite Certificate – Algorithms and Analysis
 
 ---
 
