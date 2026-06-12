@@ -92,7 +92,8 @@
 | 🎓 Campus Nova | Student Grievance & Transparency Platform | MERN | [Live](https://campusnova-beige.vercel.app/) |
 | ⏸️ LifePause | Digital Legacy & Emergency Response SaaS | React + Supabase | [Live](https://life-pause.vercel.app/) |
 | 🎤 Java Voice Assistant | Voice Controlled Desktop Assistant | Java | Private |
-------
+
+---
 ## 🚀 Current Focus
 
 - Building scalable full-stack applications
