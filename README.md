@@ -161,8 +161,7 @@
 💼 LinkedIn:
 https://www.linkedin.com/in/sonaltripathi20
 
-🌐 Portfolio:
-https://campusnova-beige.vercel.app
+
 
 
 ## 💡 Quote
