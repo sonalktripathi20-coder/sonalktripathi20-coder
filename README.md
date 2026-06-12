@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;Full+Stack+Developer;Java+Developer;AI+%26+Cybersecurity+Enthusiast;Published+Researcher;Building+Technology+That+Matters" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sonalktripathi20-coder&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sonaltripathi20">
@@ -27,11 +24,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sonalktripathi20-coder&theme=tokyonight&row=1&column=6"/>
-</p>
 
 ---
 
@@ -130,6 +123,14 @@
 - 🚀 Agile Scrum Fundamentals
 
 ---
+## 🌱 Currently Exploring
+
+- 🤖 Generative AI
+- ☁️ Cloud Computing
+- 🔐 Cybersecurity
+- 🏗️ System Design
+- ⚛️ Advanced React
+- 🚀 Scalable Web Applications
 
 ## 📊 GitHub Analytics
 
@@ -150,21 +151,7 @@
 
 ---
 
-## 🌐 Coding Profiles
 
-<a href="YOUR_LEETCODE_LINK">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="YOUR_CODECHEF_LINK">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
-</a>
-
-<a href="YOUR_HACKERRANK_LINK">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
-
----
 
 ## 💡 Quote
 
