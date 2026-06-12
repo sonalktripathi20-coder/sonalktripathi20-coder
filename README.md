@@ -90,9 +90,8 @@
 | Project | Description | Tech | Demo |
 |----------|------------|------|------|
 | 🎓 Campus Nova | Student Grievance & Transparency Platform | MERN | [Live](https://campusnova-beige.vercel.app/) |
-| ⏸️ LifePause | Digital Legacy & Emergency Response SaaS | React + Supabase | [Live](https://life-pause.vercel.app) |
+| ⏸️ LifePause | Digital Legacy & Emergency Response SaaS | React + Supabase | [Live](https://life-pause.vercel.app/) |
 | 🎤 Java Voice Assistant | Voice Controlled Desktop Assistant | Java | Private |
-
 ------
 ## 🚀 Current Focus
 
@@ -155,7 +154,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sonaltripathi20">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:sonaktripathi20@gmail.com">
