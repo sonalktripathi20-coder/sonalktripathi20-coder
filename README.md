@@ -1,35 +1,25 @@
-
 <h1 align="center">Hi 👋, I'm Sonal Tripathi</h1>
 
-
-<h3 align="center">
-Computer Engineering Student | Full-Stack Developer | AI & Cybersecurity Enthusiast
-</h3>
+<h3 align="center">🚀 Full Stack Developer | ☕ Java Developer | 🤖 AI & Cybersecurity Enthusiast</h3>
 
 <p align="center">
-Building impactful solutions through technology, innovation, and continuous learning.
-</p>
-<p align="center">
-  Full Stack Developer • Java Developer • AI & Cybersecurity Enthusiast
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;Full+Stack+Developer;Java+Developer;AI+%26+Cybersecurity+Enthusiast;Published+Researcher;Building+Technology+That+Matters" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full+Stack+Developer;Java+Developer;AI+%26+Cybersecurity+Enthusiast;Published+Researcher;Building+Things+That+Matter" />
+  <img src="https://komarev.com/ghpvc/?username=sonalktripathi20-coder&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sonaltripathi20">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://campusnova-beige.vercel.app">
-    <img src="https://img.shields.io/badge/Campus_Nova-FF6B35?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Campus%20Nova-FF6B35?style=for-the-badge"/>
   </a>
-
   <a href="https://life-pause.vercel.app">
     <img src="https://img.shields.io/badge/LifePause-6C63FF?style=for-the-badge"/>
   </a>
-
   <a href="mailto:sonaktripathi20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -37,23 +27,23 @@ Building impactful solutions through technology, innovation, and continuous lear
 
 ---
 
-# 🚀 About Me
+## 🏆 GitHub Trophies
 
-🎓 B.E. Computer Engineering Student at Thakur Shyamnarayan Engineering College, University of Mumbai
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sonalktripathi20-coder&theme=tokyonight&row=1&column=6"/>
+</p>
 
-📊 SGPA:
-- Semester 1: 8.78
-- Semester 2: 9.09
-- Semester 3: 8.89
-- Semester 4: 9.35
+---
 
-📄 Published Researcher in IJCRT
+## 🚀 About Me
 
-💡 Passionate About:
-- Full Stack Development
-- Artificial Intelligence
-- Cybersecurity
-- Cloud Computing
+🎓 Computer Engineering Student at **Thakur Shyamnarayan Engineering College**
+
+📄 Published Researcher in **IJCRT**
+
+💻 Passionate about **Full Stack Development, AI, Cybersecurity & Cloud Computing**
+
+🏆 Coding Club Leader | Hackathon Participant | DLLE Volunteer
 
 🌱 Currently Learning:
 - Advanced React
@@ -61,95 +51,65 @@ Building impactful solutions through technology, innovation, and continuous lear
 - Generative AI
 - Scalable Web Applications
 
-🏆 Coding Club Leader | Hackathon Participant | DLLE Volunteer
+---
+
+## ⚡ Quick Highlights
+
+- 📄 Published Research Paper (IJCRT)
+- 🎯 Smart India Hackathon Participant
+- 🚀 Multiple Full Stack Projects
+- 🤖 AI & Generative AI Enthusiast
+- 🔐 Cybersecurity Learner
+- 🌟 Community Impact Through DLLE
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
-### Frontend
+### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
 
-### Backend
+### ⚙️ Backend
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 
-### Database
+### 🗄️ Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-### Tools
+### 🧰 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-# 📌 Featured Projects
+## 🚀 Featured Projects
 
-## 🎓 Campus Nova
-
-🔗 https://campusnova-beige.vercel.app/
-
-Student-focused platform simplifying campus life and improving accessibility to opportunities and resources.
-
-Smart Dual-Mode Grievance & Transparency System
-
-✔ Published Research Paper (IJCRT)
-
-✔ REST API Integration
-
-✔ Agile Scrum Development
-
-✔ SDLC-Based Project Execution
-
-
-## ⏸️ LifePause
-
-🔗 https://life-pause.vercel.app
-
-Secure Digital Legacy & Emergency Response SaaS Platform built using React, TypeScript, Supabase and PostgreSQL.
-
-✔ Built a secure SaaS platform for digital legacy and emergency preparedness
-
-✔ Implemented authentication, authorization and role-based access control
-
-✔ Developed emergency contact coordination and response workflows
-
-✔ Integrated PostgreSQL, Supabase and real-time synchronization for scalability
+| Project | Description | Tech |
+|----------|------------|------|
+| 🎓 Campus Nova | Student Grievance & Transparency Platform | MERN |
+| ⏸️ LifePause | Digital Legacy & Emergency Response SaaS | React + Supabase |
+| 🎤 Java Voice Assistant | Voice Controlled Desktop Assistant | Java |
 
 ---
 
-## 🎤 Java Voice Assistant
-
-Voice-controlled desktop assistant developed using Java.
-
-✔ Speech Recognition
-
-✔ Object-Oriented Design
-
-✔ Design Patterns
-
-✔ JUnit Testing
-
----
-
-# 🏆 Achievements
+## 🏆 Achievements
 
 - 📄 Published Researcher in IJCRT
 - 🎯 Smart India Hackathon Participant
@@ -160,9 +120,7 @@ Voice-controlled desktop assistant developed using Java.
 
 ---
 
-
-
-# 📜 Certifications
+## 📜 Certifications
 
 - 🏅 NPTEL – Algorithms and Analysis (Elite)
 - ☁️ Google Cloud Generative AI
@@ -170,33 +128,48 @@ Voice-controlled desktop assistant developed using Java.
 - 📊 Deloitte Technology Job Simulation
 - 🤖 Tata GenAI Data Analytics
 - 🚀 Agile Scrum Fundamentals
+
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonalktripathi20-coder&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalktripathi20-coder&layout=compact&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sonalktripathi20-coder&show_icons=true&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sonalktripathi20-coder&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalktripathi20-coder&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonalktripathi20-coder&theme=tokyonight" />
-</p>
+[![Sonal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sonalktripathi20-coder&theme=tokyo-night)](https://github.com)
 
 ---
 
-# 📈 Contribution Graph
+## 🌐 Coding Profiles
 
-[![Sonal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sonalktripathi20-coder&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="YOUR_LEETCODE_LINK">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="YOUR_CODECHEF_LINK">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_HACKERRANK_LINK">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank"/>
+</a>
 
 ---
 
-### ✨ Quote
+## 💡 Quote
 
 > "Build things that matter. Learn continuously. Create impact through technology."
 
-⭐ Thanks for visiting my profile!
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
