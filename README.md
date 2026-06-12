@@ -87,16 +87,13 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |Demo 
+| Project | Description | Tech | Demo |
 |----------|------------|------|------|
-| 🎓 Campus Nova | Student Grievance & Transparency Platform | MERN |https://campusnova-beige.vercel.app/
-| ⏸️ LifePause | Digital Legacy & Emergency Response SaaS | React + Supabase | https://life-pause.vercel.app
-| 🎤 Java Voice Assistant | Voice Controlled Desktop Assistant | Java |
+| 🎓 Campus Nova | Student Grievance & Transparency Platform | MERN | [Live](https://campusnova-beige.vercel.app/) |
+| ⏸️ LifePause | Digital Legacy & Emergency Response SaaS | React + Supabase | [Live](https://life-pause.vercel.app) |
+| 🎤 Java Voice Assistant | Voice Controlled Desktop Assistant | Java | Private |
 
----
+------
 ## 🚀 Current Focus
 
 - Building scalable full-stack applications
@@ -154,13 +151,17 @@
 [![Sonal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sonalktripathi20-coder&theme=tokyo-night)](https://github.com)
 
 ---
-## 🤝 Connect With Me
+<h2 align="center">🤝 Connect With Me</h2>
 
-📧 Email: sonaktripathi20@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/sonaltripathi20">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
 
-💼 LinkedIn:
-https://www.linkedin.com/in/sonaltripathi20
-
+  <a href="mailto:sonaktripathi20@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 
 
