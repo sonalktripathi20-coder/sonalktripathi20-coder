@@ -24,10 +24,6 @@
 
 ---
 
-
-
----
-
 ## 🚀 About Me
 
 🎓 Computer Engineering Student at **Thakur Shyamnarayan Engineering College**
@@ -94,13 +90,21 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|----------|------------|------|
-| 🎓 Campus Nova | Student Grievance & Transparency Platform | MERN |
-| ⏸️ LifePause | Digital Legacy & Emergency Response SaaS | React + Supabase |
+| Project | Description | Tech |Demo 
+|----------|------------|------|------|
+| 🎓 Campus Nova | Student Grievance & Transparency Platform | MERN |https://campusnova-beige.vercel.app/
+| ⏸️ LifePause | Digital Legacy & Emergency Response SaaS | React + Supabase | https://life-pause.vercel.app
 | 🎤 Java Voice Assistant | Voice Controlled Desktop Assistant | Java |
 
 ---
+## 🚀 Current Focus
+
+- Building scalable full-stack applications
+- Exploring Generative AI solutions
+- Learning System Design
+- Strengthening Cybersecurity fundamentals
+
+ -----
 
 ## 🏆 Achievements
 
@@ -150,7 +154,15 @@
 [![Sonal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sonalktripathi20-coder&theme=tokyo-night)](https://github.com)
 
 ---
+## 🤝 Connect With Me
 
+📧 Email: sonaktripathi20@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/sonaltripathi20
+
+🌐 Portfolio:
+https://campusnova-beige.vercel.app
 
 
 ## 💡 Quote
